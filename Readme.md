@@ -36,3 +36,7 @@ To access the full data follow the given link:
 ```bash
 https://1drv.ms/u/s!AoqzH-Qo5ZwLixkh8IO2_BRIuJqD?e=WvSxGU
 ```
+
+## Disclaimer
+  - The copyright for this data does not belong to me. All rights and ownership belong to the original creators and institutions.
+  - This dataset is provided "as-is" without any warranties of any kind. Use at your own risk. 
